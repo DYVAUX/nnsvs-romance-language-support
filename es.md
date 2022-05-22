@@ -9,7 +9,7 @@ Cleaned up reference provided by subpum
 | axh     |         | Voiced Exhale|
 | pau     |         | Silence     |
 | q       | ?       | Glottal Stop|
-| cl      |         | Closure (Held Consonants) |
+| cl      | : (after consonant)       | Closure (Held Consonants) |
 | vf      |         | Vocal Fry   |
 | trash   |         | Junk Phoneme| 
 
